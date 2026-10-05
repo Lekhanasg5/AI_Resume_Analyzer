@@ -1,0 +1,46 @@
+LEKHANA SG
+
+Email: lekhana@example.com
+Phone: +91 9876543210
+
+CAREER OBJECTIVE
+Engineering student interested in software development and data analysis.
+Looking for opportunities to apply programming and problem-solving skills.
+
+EDUCATION
+Bachelor of Engineering
+Information Science and Engineering
+
+TECHNICAL SKILLS
+Python
+SQL
+HTML
+CSS
+Data Structures
+Algorithms
+DBMS
+Pandas
+NumPy
+Git
+GitHub
+
+PROJECTS
+Inventory and Warranty Management System
+- Developed a database-based system using Python, SQL and MySQL.
+- Managed inventory, warranty information and expiry tracking.
+
+AI Resume Analyzer and Job Recommendation System
+- Developed an NLP-based system to analyze resumes.
+- Extracted technical skills and compared them with job requirements.
+- Generated job-role recommendations and identified missing skills.
+
+COURSEWORK
+Data Structures
+Algorithms
+Database Management Systems
+Operating Systems
+Computer Networks
+Software Engineering
+
+CERTIFICATION
+Python Bootcamp from Zero to Hero

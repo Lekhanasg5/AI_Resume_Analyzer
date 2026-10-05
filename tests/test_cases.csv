@@ -1,0 +1,13 @@
+Test_ID,Test_Case,Input,Expected_Result,Status
+TC001,PDF resume upload,PDF resume file,Resume should upload successfully,Pass
+TC002,DOCX resume upload,DOCX resume file,Resume should upload successfully,Pass
+TC003,Resume text extraction,Valid PDF/DOCX resume,Resume text should be extracted,Pass
+TC004,Skill extraction,Resume containing Python and SQL,Python and SQL should be detected,Pass
+TC005,Job role matching,Resume with Python SQL and Git,Matching job roles should be displayed,Pass
+TC006,Match score calculation,Resume and selected job role,Match percentage should be displayed,Pass
+TC007,Top role recommendation,Analyzed resume,Top 3 recommended roles should be displayed,Pass
+TC008,Skill gap analysis,Resume and target role,Matched and missing skills should be displayed,Pass
+TC009,Learning roadmap,Role with missing skills,Learning roadmap should be generated,Pass
+TC010,PDF report generation,Completed resume analysis,PDF report should be downloadable,Pass
+TC011,Multiple job roles,Analyzed resume,Multiple job roles should receive match scores,Pass
+TC012,No matching skills,Resume with unrelated content,System should show no matching technical skills,Pass
